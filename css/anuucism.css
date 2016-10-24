@@ -1,0 +1,28 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.table_title { 
+ font-weight: bold;
+}
+
+.table_author {
+ font-style: italic;
+ font-size: 85%;
+}
+
+.navbar-form {
+  padding-right: 30px;
+}
+
+#talks th {
+  vertical-align: top;
+  text-align: right;
+  padding: 5px 5px 5px 10px;
+}
+
+.speaker_name {
+  font-size: large;
+  font-weight: bold;
+}
