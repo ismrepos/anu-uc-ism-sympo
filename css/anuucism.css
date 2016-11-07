@@ -3,6 +3,13 @@ body {
   padding-bottom: 20px;
 }
 
+tbody, td {
+    height: 100%;
+    max-width: 840px;
+    border: solid 1px #DCDCDC;
+    vertical-align: middle;
+}
+
 .table_title { 
  font-weight: bold;
 }
@@ -10,6 +17,24 @@ body {
 .table_author {
  font-style: italic;
  font-size: 85%;
+}
+
+.table_chair {
+    background-color: #DCDCDC;
+    font-weight: bold;
+    height: 30px;
+}
+
+td.session {
+    background-color: #DCDCDC;
+    height: 100%;
+}
+
+div.session {
+    background-color: #FFFFFF;
+    width: 96%;
+    height: 100%;
+    padding-top: 10px;
 }
 
 .navbar-form {
