@@ -35,6 +35,7 @@ div.session {
     width: 96%;
     height: 100%;
     padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .navbar-form {
